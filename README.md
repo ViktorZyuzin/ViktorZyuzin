@@ -1,4 +1,4 @@
-<h2 align='left'>Hello everybody , I'm Viktor 👋</h2>
+# <h2 align='left'>Hello everybody , I'm Viktor 👋</h2>
 
 :page_facing_up: Резюме [HH.ru](https://github.com/ViktorZyuzin/ViktorZyuzin/blob/main/Зюзин%20Виктор%20(1).pdf)
 
@@ -17,3 +17,7 @@
 [![TensorFlow](https://img.shields.io/badge/-TensorFlow-464646??style=flat-square&logo=TensorFlow)](https://www.tensorflow.org/)
 [![Jupyter](https://img.shields.io/badge/-Jupyter-464646??style=flat-square&logo=Jupyter)](https://jupyter.org/)
 [![SKLearn](https://img.shields.io/badge/-Scikit_Learn-464646??style=flat-square&logo=Scikitlearn)](https://scikit-learn.org/)
+
+##  Учебные проекты
+
+[СПИСОК ТУТ!!!](https://github.com/ViktorZyuzin/Portfolio-YandexPracticum/blob/main/README.md)
