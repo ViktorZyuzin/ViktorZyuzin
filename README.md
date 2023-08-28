@@ -20,4 +20,4 @@
 
 ##  Учебные проекты
 
-[СПИСОК ТУТ!!!](https://github.com/ViktorZyuzin/Portfolio-YandexPracticum/blob/main/README.md)
+[СПИСОК МОЖНО ПОСМОТРЕТЬ ТУТ!!!](https://github.com/ViktorZyuzin/Portfolio-YandexPracticum/blob/main/README.md)
