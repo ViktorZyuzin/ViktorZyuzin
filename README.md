@@ -15,7 +15,6 @@
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-464646??style=flat-square&logo=PostgreSQL)](https://www.postgresql.org/)
 [![PyTorch](https://img.shields.io/badge/-PyTorch-464646??style=flat-square&logo=PyTorch)](https://pytorch.org/)
 [![TensorFlow](https://img.shields.io/badge/-TensorFlow-464646??style=flat-square&logo=TensorFlow)](https://www.tensorflow.org/)
-[![Jupyter](https://img.shields.io/badge/-Jupyter-464646??style=flat-square&logo=Jupyter)](https://jupyter.org/)
 [![SKLearn](https://img.shields.io/badge/-Scikit_Learn-464646??style=flat-square&logo=Scikitlearn)](https://scikit-learn.org/)
 
 ##  Учебные проекты
