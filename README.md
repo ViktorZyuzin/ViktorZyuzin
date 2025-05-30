@@ -2,7 +2,7 @@
 
 :page_facing_up: Резюме [HH.ru](https://samara.hh.ru/resume/77994aa0ff03cd1fac0039ed1f5833514a6e56) / [.PDF](https://github.com/ViktorZyuzin/ViktorZyuzin/blob/main/Зюзин%20Виктор%20Олегович.pdf)
 
-Совсем недавно я решил кардинально изменить свою жизнь и отправился расширять границы своего мировоззрения. После долгих раздумий я наконец-то определился с выбором своего дальнейшего развития. И мой выбор пал на [Яндекс Практикум](https://practicum.yandex.ru/data-scientist/).  
+Совсем недавно я решил кардинально изменить свою жизнь. После долгих раздумий я наконец-то определился с выбором своего дальнейшего развития. И мой выбор пал на [Яндекс Практикум](https://practicum.yandex.ru/data-scientist/).  
 
 Диплом об окончании [РУС](https://github.com/ViktorZyuzin/ViktorZyuzin/blob/main/Зюзин%20Виктор%20Олегович_20232ЦПДС00702%20(1).pdf) / [ENG](https://github.com/ViktorZyuzin/ViktorZyuzin/blob/main/Зюзин%20Виктор%20Олегович_20232ЦПДС00702%20(1).pdf)
 
