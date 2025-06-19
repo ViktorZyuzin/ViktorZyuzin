@@ -1,8 +1,6 @@
-# <h2 align='left'>Hello everybody , I'm Viktor 👋</h2>
+# <h2 align='left'>Hi, I'm Viktor 👋</h2>
 
-:page_facing_up: Резюме [HH.ru](https://samara.hh.ru/resume/77994aa0ff03cd1fac0039ed1f5833514a6e56) / [.PDF](https://github.com/ViktorZyuzin/ViktorZyuzin/blob/main/Зюзин%20Виктор%20Олегович.pdf)
-
-Совсем недавно я решил кардинально изменить свою жизнь. После долгих раздумий я наконец-то определился с выбором своего дальнейшего развития. И мой выбор пал на [Яндекс Практикум](https://practicum.yandex.ru/data-scientist/).  
+:page_facing_up: Резюме [HH.ru]([https://samara.hh.ru/resume/77994aa0ff03cd1fac0039ed1f5833514a6e56](https://togliatti.hh.ru/resume/52db8742ff0e9cc1ae0039ed1f767636466e6a)) / [.PDF](https://github.com/ViktorZyuzin/ViktorZyuzin/blob/main/Зюзин%20Виктор%20Олегович.pdf)  
 
 Диплом об окончании [РУС](https://github.com/ViktorZyuzin/ViktorZyuzin/blob/main/Зюзин%20Виктор%20Олегович_20232ЦПДС00702%20(1).pdf) / [ENG](https://github.com/ViktorZyuzin/ViktorZyuzin/blob/main/Зюзин%20Виктор%20Олегович_20232ЦПДС00702%20(1).pdf)
 
@@ -19,4 +17,4 @@
 
 ##  Учебные проекты
 
-[СПИСОК МОЖНО ПОСМОТРЕТЬ ТУТ!!!](https://github.com/ViktorZyuzin/Portfolio-YandexPracticum/blob/main/README.md)
+[Список учебных проектов](https://github.com/ViktorZyuzin/Portfolio-YandexPracticum/blob/main/README.md)
