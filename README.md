@@ -1,6 +1,6 @@
 # <h2 align='left'>Hi, I'm Viktor 👋</h2>
 
-:page_facing_up: Резюме [HH.ru](https://togliatti.hh.ru/resume/52db8742ff0e9cc1ae0039ed1f767636466e6a) / [.PDF](https://github.com/ViktorZyuzin/ViktorZyuzin/blob/main/Зюзин%20Виктор%20(7).pdf)  
+:page_facing_up: Резюме [HH.ru](https://togliatti.hh.ru/resume/52db8742ff0e9cc1ae0039ed1f767636466e6a)
 
 Диплом об окончании [РУС](https://github.com/ViktorZyuzin/ViktorZyuzin/blob/main/Зюзин%20Виктор%20Олегович_20232ЦПДС00702%20(1).pdf) / [ENG](https://github.com/ViktorZyuzin/ViktorZyuzin/blob/main/Зюзин%20Виктор%20Олегович_20232ЦПДС00702%20(1).pdf)
 
